@@ -1,0 +1,1 @@
+Java es un lenguaje de programacion como tambien una plataforma informatica la cual fue comercializada por primera vez en 1995 por Sun Microsystems. Hay muchas aplicaciones como sitios que no funcionaran, probablemente, a menos que lo tengan instalado, por lo que cada dia se crean mas. Esta tecnologia es rapida, segura y fiable.
